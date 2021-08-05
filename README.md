@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandravivekpr
+- 👋 Hi, I’m @chandravivekprabhakar
 - 👀 I’m interested in data science and big data analyticsd
 - 🌱 I’m currently learning ...Data Science & AI
 - 💞️ I’m looking to collaborate on ... Data science projects
