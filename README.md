@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chandravivekprabhakar
-- 👀 I’m interested in data science and big data analyticsd
+- 👀 I’m interested in data science and big data analytics
 - 🌱 I’m currently learning ...Data Science & AI
 - 💞️ I’m looking to collaborate on ... Data science projects
 - 📫 How to reach me ... Email - chandravivekprabhakar@gmail.com, phone- 8969518033
